@@ -35,7 +35,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **Tiffany Oña**
 
-- [micorreo@midominio.com](tiffanyona6@gmail.com)
+- [tiffanyona6@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
 - [Porfolio web](https://tu-dominio.com/)
 
