@@ -5,7 +5,7 @@
 ## Ejemplo en vivo
 
 - [URL-de-github-pages-de-este-proyecto](https://tiffanyona6.github.io/social-links-profile/)
-- [URL-de-la-api](URL-de-la-api)
+- [URL-de-la-api](https://tiffanyona6.github.io/social-links-profile/)
 
 ## Descripción 📑
 
